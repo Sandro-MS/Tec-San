@@ -1,2 +1,2 @@
 # Tec-San
- Meu primeiro repositório
+ Meu primeiro repositório.
